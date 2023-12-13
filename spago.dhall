@@ -32,6 +32,9 @@ to generate this file without the comments in this block.
   , "sunde"
   , "template-strings"
   , "versions"
+  , "foldable-traversable"
+  , "node-fs"
+  , "stringutils"
   ]
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs", "test/**/*.purs" ]
